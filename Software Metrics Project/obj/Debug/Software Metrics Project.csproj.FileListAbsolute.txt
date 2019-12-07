@@ -1,0 +1,7 @@
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\bin\Debug\Software Metrics Project.exe.config
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\bin\Debug\Software Metrics Project.exe
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\bin\Debug\Software Metrics Project.pdb
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\obj\Debug\Software Metrics Project.csprojAssemblyReference.cache
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\obj\Debug\Software Metrics Project.csproj.CoreCompileInputs.cache
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\obj\Debug\Software Metrics Project.exe
+C:\Users\eagle\OneDrive\Documents\Visual Studio 2017\Projects\Software Metrics Project\Software Metrics Project\obj\Debug\Software Metrics Project.pdb
